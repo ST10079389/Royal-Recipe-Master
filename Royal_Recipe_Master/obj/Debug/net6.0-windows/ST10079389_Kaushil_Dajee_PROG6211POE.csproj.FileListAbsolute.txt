@@ -1,0 +1,66 @@
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.csproj.AssemblyReference.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\RecipeInput.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE_MarkupCompile.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE_MarkupCompile.lref
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.exe
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.deps.json
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.runtimeconfig.json
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.pdb
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\RecipeInput.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.g.resources
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.AssemblyInfoInputs.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.AssemblyInfo.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.csproj.CoreCompileInputs.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\refint\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.pdb
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.genruntimeconfig.cache
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ref\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ScallingForm.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ScallingForm.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ResetForm.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ResetForm.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewAllRecipes.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewAllRecipes.baml
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewRecipe.g.cs
+C:\Users\Ditesh\OneDrive - ADvTECH Ltd\Documents\Visual Studio 2022\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewRecipe.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.exe
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.deps.json
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.runtimeconfig.json
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\bin\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.pdb
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.csproj.AssemblyReference.cache
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\Menu.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\RecipeInput.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ResetForm.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ScallingForm.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewAllRecipes.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewRecipe.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE_MarkupCompile.cache
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE_MarkupCompile.lref
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\Menu.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\RecipeInput.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ResetForm.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ScallingForm.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewAllRecipes.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ViewRecipe.baml
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.g.resources
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.AssemblyInfoInputs.cache
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.AssemblyInfo.cs
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.csproj.CoreCompileInputs.cache
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\refint\ST10079389_Kaushil_Dajee_PROG6211POE.dll
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.pdb
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ST10079389_Kaushil_Dajee_PROG6211POE.genruntimeconfig.cache
+C:\Users\Ditesh\Source\Repos\prog6221-poe-ST10079389\ST10079389_Kaushil_Dajee_PROG6221POE\ST10079389_Kaushil_Dajee_PROG6211POE\obj\Debug\net6.0-windows\ref\ST10079389_Kaushil_Dajee_PROG6211POE.dll

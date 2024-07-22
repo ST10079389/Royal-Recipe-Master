@@ -1,0 +1,44 @@
+﻿<Window x:Class="ST10079389_Kaushil_Dajee_PROG6211POE.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10079389_Kaushil_Dajee_PROG6211POE"
+        mc:Ignorable="d"
+        Title="Menu" Height="448" Width="900" Background="White">
+    <Grid>
+        <!-- Toolbar -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Menu Grid.Row="0" Height="40">
+                <MenuItem x:Name="ExitOption" Header="Exit" FontSize="18" Click="ExitOption_Click_1"/>
+                <DockPanel HorizontalAlignment="Right">
+                    <TextBox x:Name="SearchBox" Text="Enter Recipe Name" GotFocus="SearchBox_GotFocus" Width="300" Height="25" SelectionOpacity="-2" FontSize="18"/>
+                    <Button x:Name="SearchButton" Content="Search" VerticalAlignment="Top" Click="SearchButton_Click" Height="25" Width="58" FontSize="15"/>
+                </DockPanel>
+            </Menu>
+
+            <!-- Main Content -->
+
+            <Grid Grid.Row="1">
+                <Viewbox>
+                    <Grid Width="871" Height="380">
+
+                        <!-- Rest of your content -->
+                        <Label x:Name="welcomeText" Content="Welcome to The Royal Recipe Master" HorizontalAlignment="Center" VerticalAlignment="Top" Width="818" FontSize="48" Foreground="#FF003DFF"/>
+                        <Label Content="Please Select From The Following Options: " HorizontalAlignment="Center" Margin="0,79,0,0" VerticalAlignment="Top" FontSize="16"/>
+                        <Button x:Name="RecipeButton" Content="Entering a Recipe" HorizontalAlignment="Left" Margin="41,121,0,0" VerticalAlignment="Top" Height="47" Width="382" FontSize="20" Background="White" Click="RecipeButton_Click" BorderBrush="Black"/>
+                        <Button x:Name="ViewAllButton" Content="View All Recipes" HorizontalAlignment="Left" Margin="467,121,0,0" VerticalAlignment="Top" Height="47" Width="352" FontSize="20" Background="#FFBBBBBB" Click="ViewAllButton_Click"/>
+                        <Button x:Name="ScalingButton" Content="Scaling the Quantity of a Recipe" HorizontalAlignment="Left" Margin="48,190,0,0" VerticalAlignment="Top" Height="47" Width="382" FontSize="16" Background="#FF5048FF" Click="ScalingButton_Click" BorderBrush="Black"/>
+                        <Button x:Name="ResetButton" Content="Reset Quantity" HorizontalAlignment="Left" Margin="466,189,0,0" VerticalAlignment="Top" Height="47" Width="353" FontSize="20" Background="#FFFFEB33" Click="ResetButton_Click" BorderBrush="Black"/>
+                        <Button x:Name="DeleteButton" Content="Delete All Recipes" HorizontalAlignment="Left" Margin="279,260,0,0" VerticalAlignment="Top" Height="47" Width="373" FontSize="20" Background="Red" Click="DeleteButton_Click" BorderBrush="Black"/>
+                    </Grid>
+                </Viewbox>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

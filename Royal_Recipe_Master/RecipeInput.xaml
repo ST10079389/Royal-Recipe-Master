@@ -1,0 +1,76 @@
+﻿<Window x:Class="ST10079389_Kaushil_Dajee_PROG6211POE.RecipeInput"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10079389_Kaushil_Dajee_PROG6211POE"
+        mc:Ignorable="d"
+        Title="Recipe Input" Height="490" Width="1136">
+    <Grid>
+        <!-- Toolbar -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Menu Grid.Row="0" Height="40">
+                <MenuItem Header="Menu" FontSize="18" Click="MenuItem_Click"/>
+                <MenuItem x:Name="ExitOption" Header="Exit" FontSize="18" Click="ExitOption_Click"/>
+                <DockPanel HorizontalAlignment="Right">
+                    <TextBox x:Name="SearchBox" Text="Enter Recipe Name" GotFocus="SearchBox_GotFocus" Width="550" Height="27" SelectionOpacity="-2" FontSize="20"/>
+                    <Button x:Name="SearchButton" Content="Search" Click="SearchButton_Click" Height="25" Width="83" FontSize="15"/>
+                </DockPanel>
+            </Menu>
+
+            <!-- Main Content -->
+
+            <Grid Grid.RowSpan="2">
+                <Viewbox>
+                    <Grid Width="1115">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <Label Content="Recipe Name:" HorizontalAlignment="Left" Margin="21,51,0,0" VerticalAlignment="Top" FontSize="16"/>
+                        <TextBox x:Name="RecipeNameBox" HorizontalAlignment="Left" Margin="151,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="563" Height="29" FontSize="18"/>
+
+                        <Label Content="Steps:" HorizontalAlignment="Left" Margin="31,276,0,0" VerticalAlignment="Top" FontSize="14"/>
+                        <TextBox x:Name="StepsBox" HorizontalAlignment="Left" Margin="151,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="612" Height="24" FontSize="14"/>
+                        <Button x:Name="AddStepButton1" Content="Add Step" HorizontalAlignment="Left" Margin="271,324,0,0" VerticalAlignment="Top" Width="332" Height="30" FontSize="14" Click="AddStepButton1_Click" Background="Black" Foreground="White"/>
+
+                        <Label Content="Food Group:" HorizontalAlignment="Left" Margin="31,162,0,0" VerticalAlignment="Top" FontSize="14"/>
+
+                        <Label Content="Measurement of &#xD;&#xA;     Ingredient: " HorizontalAlignment="Left" Margin="379,106,0,0" VerticalAlignment="Top" FontSize="14"/>
+                        <TextBox x:Name="MeasurementBox" HorizontalAlignment="Left" Margin="520,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" Height="24" FontSize="14"/>
+                        <ComboBox x:Name="FoodGroup" Margin="151,166,756,269" SelectedValuePath="Content">
+                        </ComboBox>
+
+                        <TextBox x:Name="CalorieBox" HorizontalAlignment="Left" Margin="520,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" Height="24" FontSize="14"/>
+                        <Label Content="Calories:" HorizontalAlignment="Left" Margin="395,162,0,0" VerticalAlignment="Top" FontSize="14"/>
+
+                        <Label Content="Ingredient:" HorizontalAlignment="Left" Margin="31,112,0,0" VerticalAlignment="Top" FontSize="14"/>
+                        <TextBox x:Name="IngredientBox" HorizontalAlignment="Left" Margin="151,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Height="24" FontSize="14"/>
+                        <Button x:Name="IngredientButton" Content="Add Ingredient" HorizontalAlignment="Left" Margin="271,224,0,0" VerticalAlignment="Top" Width="332" Height="30" FontSize="14" Click="IngredientButton_Click" Foreground="White" Background="Black"/>
+
+                        <Button x:Name="SaveRecipeButton" Content="Save Recipe" HorizontalAlignment="Left" Margin="186,389,0,0" VerticalAlignment="Top" Width="862" Height="38" FontSize="20" Background="#FF0034FF" Foreground="White" BorderBrush="Black" Click="SaveRecipeButton_Click"/>
+
+                        <Label Content="Ingredient Information:" HorizontalAlignment="Left" Margin="784,49,0,0" VerticalAlignment="Top" Width="186" FontSize="16"/>
+                        <Label Content="Steps:" HorizontalAlignment="Left" Margin="790,206,0,0" VerticalAlignment="Top" Width="72" Height="31" FontSize="16"/>
+
+                        <ListBox x:Name="stepsListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="790,242,78,117"/>
+                        <ListBox x:Name="ingredientsInfoBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="790,83,78,262"/>
+
+                        <Label Content="e.g. 2 tablespoons" HorizontalAlignment="Left" Margin="520,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.086,0.751" Background="White" Foreground="#FFFF004B"/>
+
+                    </Grid>
+                </Viewbox>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

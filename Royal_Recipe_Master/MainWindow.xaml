@@ -1,0 +1,17 @@
+﻿<Window x:Class="ST10079389_Kaushil_Dajee_PROG6211POE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10079389_Kaushil_Dajee_PROG6211POE"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="800" Background="White">
+    <Viewbox>
+        <Grid Width="1311" Height="381" Background="White">
+            <DockPanel Margin="0,0,0,385"/>
+            <Label x:Name="welcomeText" Content="Welcome to The Royal Recipe Master" HorizontalAlignment="Left" Margin="60,45,0,0" VerticalAlignment="Top" Width="1208" FontSize="72" Foreground="Black" Background="White"/>
+            <Button x:Name="RecipeButton" Content="Enter a Recipe" HorizontalAlignment="Center" Margin="0,232,0,0" VerticalAlignment="Top" Height="82" Width="686" FontSize="36" Background="White" Click="RecipeButton_Click" Foreground="Black" BorderBrush="Black"/>
+            <Label Content="Begin by Entering a Recipe" HorizontalAlignment="Center" Margin="0,185,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="317" Background="White" Foreground="#FF0050FF"/>
+        </Grid>
+    </Viewbox>
+</Window>

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ditesh\\Source\\Repos\\prog6221-poe-ST10079389\\ST10079389_Kaushil_Dajee_PROG6221POE\\ST10079389_Kaushil_Dajee_PROG6211POE\\ST10079389_Kaushil_Dajee_PROG6211POE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ditesh\\Source\\Repos\\prog6221-poe-ST10079389\\ST10079389_Kaushil_Dajee_PROG6221POE\\ST10079389_Kaushil_Dajee_PROG6211POE\\ST10079389_Kaushil_Dajee_PROG6211POE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ditesh\\Source\\Repos\\prog6221-poe-ST10079389\\ST10079389_Kaushil_Dajee_PROG6221POE\\ST10079389_Kaushil_Dajee_PROG6211POE\\ST10079389_Kaushil_Dajee_PROG6211POE.csproj",
+        "projectName": "ST10079389_Kaushil_Dajee_PROG6211POE",
+        "projectPath": "C:\\Users\\Ditesh\\Source\\Repos\\prog6221-poe-ST10079389\\ST10079389_Kaushil_Dajee_PROG6221POE\\ST10079389_Kaushil_Dajee_PROG6211POE\\ST10079389_Kaushil_Dajee_PROG6211POE.csproj",
+        "packagesPath": "C:\\Users\\Ditesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ditesh\\Source\\Repos\\prog6221-poe-ST10079389\\ST10079389_Kaushil_Dajee_PROG6221POE\\ST10079389_Kaushil_Dajee_PROG6211POE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ditesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
